@@ -1,0 +1,4 @@
+kafka-python
+Faker
+pymongo[srv]
+mysql-connector-python
